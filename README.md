@@ -4,5 +4,5 @@
 #Required Packages
 
 ```
-$ ./python_packages.sh
+$ pip install -r requirements.txt
 ```
