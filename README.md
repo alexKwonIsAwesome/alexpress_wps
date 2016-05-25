@@ -3,8 +3,6 @@
 
 #Required Packages
 
-1. First, install Django
-
 ```
-$ pip install django
+$ ./python_packages.sh
 ```
